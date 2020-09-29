@@ -1,0 +1,17 @@
+C:\Users\Marinko\Source\Repos\EmployeesRazorPages.Models\bin\Debug\netstandard2.0\EmployeesRazorPages.Models.deps.json
+C:\Users\Marinko\Source\Repos\EmployeesRazorPages.Models\bin\Debug\netstandard2.0\EmployeesRazorPages.Models.dll
+C:\Users\Marinko\Source\Repos\EmployeesRazorPages.Models\obj\Debug\netstandard2.0\EmployeesRazorPages.Models.csprojAssemblyReference.cache
+C:\Users\Marinko\Source\Repos\EmployeesRazorPages.Models\obj\Debug\netstandard2.0\EmployeesRazorPages.Models.AssemblyInfoInputs.cache
+C:\Users\Marinko\Source\Repos\EmployeesRazorPages.Models\obj\Debug\netstandard2.0\EmployeesRazorPages.Models.AssemblyInfo.cs
+C:\Users\Marinko\Source\Repos\EmployeesRazorPages.Models\bin\Debug\netstandard2.0\EmployeesRazorPages.Models.pdb
+C:\Users\Marinko\Source\Repos\EmployeesRazorPages.Models\obj\Debug\netstandard2.0\EmployeesRazorPages.Models.dll
+C:\Users\Marinko\Source\Repos\EmployeesRazorPages.Models\obj\Debug\netstandard2.0\EmployeesRazorPages.Models.pdb
+C:\Users\Marinko\Desktop\EmployeesRazorPages\EmployeesRazorPages.Models\bin\Debug\netstandard2.0\EmployeesRazorPages.Models.deps.json
+C:\Users\Marinko\Desktop\EmployeesRazorPages\EmployeesRazorPages.Models\bin\Debug\netstandard2.0\EmployeesRazorPages.Models.dll
+C:\Users\Marinko\Desktop\EmployeesRazorPages\EmployeesRazorPages.Models\bin\Debug\netstandard2.0\EmployeesRazorPages.Models.pdb
+C:\Users\Marinko\Desktop\EmployeesRazorPages\EmployeesRazorPages.Models\obj\Debug\netstandard2.0\EmployeesRazorPages.Models.csprojAssemblyReference.cache
+C:\Users\Marinko\Desktop\EmployeesRazorPages\EmployeesRazorPages.Models\obj\Debug\netstandard2.0\EmployeesRazorPages.Models.AssemblyInfoInputs.cache
+C:\Users\Marinko\Desktop\EmployeesRazorPages\EmployeesRazorPages.Models\obj\Debug\netstandard2.0\EmployeesRazorPages.Models.AssemblyInfo.cs
+C:\Users\Marinko\Desktop\EmployeesRazorPages\EmployeesRazorPages.Models\obj\Debug\netstandard2.0\EmployeesRazorPages.Models.csproj.CoreCompileInputs.cache
+C:\Users\Marinko\Desktop\EmployeesRazorPages\EmployeesRazorPages.Models\obj\Debug\netstandard2.0\EmployeesRazorPages.Models.dll
+C:\Users\Marinko\Desktop\EmployeesRazorPages\EmployeesRazorPages.Models\obj\Debug\netstandard2.0\EmployeesRazorPages.Models.pdb
